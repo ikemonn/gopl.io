@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gopl.io&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/golang.org" />
+      <root url="file://$USER_HOME$/go/src/9fans.net" />
+      <root url="file://$USER_HOME$/go/src/sourcegraph.com" />
+      <root url="file://$USER_HOME$/go/src/gopl.io" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
